@@ -1,7 +1,6 @@
 <h1 align="center">Gonzalo N. Pérez</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/devgonzaloperez/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:devgonzaloperez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/devgonzaloperez/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
 
 ## Full Stack Developer
