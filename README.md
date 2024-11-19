@@ -1,4 +1,4 @@
-<h1 align="center">Gonzalo N. Pérez</h1>
+<h1 align="center">Gonzalo Nahuel Pérez</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/devgonzaloperez/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
